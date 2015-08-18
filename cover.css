@@ -16,7 +16,8 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
+  width: 100%;
+  background-color: #86DBDB;
 }
 body {
   color: #fff;
@@ -43,7 +44,7 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 30px;
+  padding: 40px;
 }
 
 
@@ -61,10 +62,9 @@ body {
   padding-right: 0;
   padding-left: 0;
   font-size: 20px;
-  font-weight: lighter;
+  font-weight: bold;
   font-family: Quicksand;
   color: #FFFFFF; /* IE8 proofing */
-  color: rgba(255,255,255,.75);
   border-bottom: 2px solid transparent;
 }
 .masthead-nav > li > a:hover,
